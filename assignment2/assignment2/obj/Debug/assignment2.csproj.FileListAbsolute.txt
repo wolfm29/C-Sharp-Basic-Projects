@@ -1,0 +1,7 @@
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\obj\Debug\assignment2.csprojAssemblyReference.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\assignment2\assignment2\obj\Debug\assignment2.pdb

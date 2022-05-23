@@ -1,0 +1,7 @@
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

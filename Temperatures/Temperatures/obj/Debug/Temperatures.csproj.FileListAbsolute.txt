@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.exe.config
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.exe
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\bin\Debug\Temperatures.pdb
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.exe
+C:\Users\Lenovo\source\repos\Temperatures\Temperatures\obj\Debug\Temperatures.pdb
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\bin\Debug\Temperatures.exe.config
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\bin\Debug\Temperatures.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\bin\Debug\Temperatures.pdb
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\obj\Debug\Temperatures.csprojAssemblyReference.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\obj\Debug\Temperatures.exe
+C:\Users\mvmvu\OneDrive\Documents\CS220-C#\Temperatures\Temperatures\obj\Debug\Temperatures.pdb
